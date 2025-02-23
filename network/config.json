@@ -13,9 +13,9 @@
     "title": "Influencer Video Authenticity"
   },
   "legend": {
-    "edgeLabel": "Female Influencer",
+    "edgeLabel": "Authenticity and Influencer Video",
     "colorLabel": "Red",
-    "nodeLabel": "High Authentic Video"
+    "nodeLabel": "High and Low Authentic Video"
   },
   "features": {
     "search": true,
